@@ -24,10 +24,10 @@ repository               : "LifeofArindam/LifeofArindam.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Arindam Barai Gopal"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Curiosity over Behavioral Intelligence in Consumer Engagement"
+  location         : "Bangladesh"
   employer         : "University of Dhaka"
   uri              : # URL
   email            : "arindambaraigopal@gmail.com" 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/arindambarai/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
