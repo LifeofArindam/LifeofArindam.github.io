@@ -30,7 +30,7 @@ author:
   location         : "Earth"
   employer         : "University of Dhaka"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "arindambaraigopal@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
